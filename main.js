@@ -3,4 +3,8 @@ function hello(){
        let a;
        a+= i;
     }
+
+    if (i = 10){
+        console.log(i)
+    }
 }
